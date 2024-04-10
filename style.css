@@ -14,7 +14,22 @@ background-color: black
     width: 18%;
 }
 
-.intro {
-
+img .intro {
+width: 20%;
 
 }
+
+
+.intro{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+{
+    color: #200bdd;
+    text-decoration: none;
+}
+
