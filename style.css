@@ -8,12 +8,11 @@ body{
  header{display: flex;
     justify-content: space-around;
 align-items: center;
-background-color: black
+background-color: rgb(248, 241, 241)
 ;
 }
-.caraqcriouocarro {
-    width: 18%;
-}
+
+
 
 img .intro {
 width: 20%;
